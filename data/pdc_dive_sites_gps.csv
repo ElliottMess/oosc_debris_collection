@@ -1,6 +1,6 @@
 name_key,name,town_cities,GPS_coordinates,GPS_coordinates_latitude,GPS_coordinates_longitude,GPS_coordinates_altitude,GPS_coordinates_precision
 abu_hamara,Abu Hamara,quesir,26.0614 34.1652 0 20,26.0614,34.1652,0,20
-abu_sauatir,Abu Sauatir,,26.206175 34.219504 0 20,26.206175,34.219504,0,20
+abu_sauatir,Abu Sauatir,quesir,26.206175 34.219504 0 20,26.206175,34.219504,0,20
 bet_goha,Bet Goha,quesir,26.20473427 34.27047729 0 20,26.20473427,34.27047729,0,20
 el_mina,El Mina,hurghada,27.22341777 33.84508967 0 20,27.22341777,33.84508967,0,20
 el_moghar,El Moghar,,   ,,,,
