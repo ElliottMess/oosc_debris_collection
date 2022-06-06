@@ -1,7 +1,5 @@
-pak::pkg_install("ElliottMess/ooscDataAnalysis")
-
-library(ooscDataAnalysis)
-
+devtools::load_all(".")
+i
 tstamp <- get_formatted_timestamp()
 
 oosc_asset_lists <- kobo_asset_list()
