@@ -1,3 +1,5 @@
+install.packages("curl")
+install.packages("pkgbuild")
 install.packages("pkgdepends")
 install.packages("pak")
 
