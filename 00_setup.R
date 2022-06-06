@@ -1,3 +1,4 @@
+install.packages("pkgdepends")
 install.packages("pak")
 
 required_packages <- c("purrr", "rvest", "dplyr", "tidyr", "tidyselect", "stringr", "readr", "lubridate")
