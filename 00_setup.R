@@ -1,6 +1,6 @@
 
-install.packages(package)("pak")
-install_necessary_package("purrr")
+install.packages("pak")
+install.packages("purrr")
 
 required_packages <- c("rvest", "dplyr", "tidyr", "tidyselect", "stringr", "readr", "lubridate")
 
