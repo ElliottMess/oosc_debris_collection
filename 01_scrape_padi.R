@@ -1,4 +1,3 @@
-source("00_setup.R")
 
 tstamp <- get_formatted_timestamp()
 
